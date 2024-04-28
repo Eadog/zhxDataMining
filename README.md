@@ -1,4 +1,27 @@
 # zhxDataMining
+
+# 数据挖掘
+# 一、	建立一个库zhxDataMining
+1. 登录GitHub：首先，确保您已经注册并登录到 GitHub 帐户。
+2. 导航到仓库页面：登录后，点击右上角加号旁边的加号图标，然后选择 "New repository"（新建仓库）。
+3. 填写仓库信息：
+-	Repository name（仓库名称）：输入 "zhxDataMining"。  
+-	Description（描述）（可选）：输入一个简短的描述，例如："用于存储中文数据挖掘项目 的代码和文档"。  
+-	Public / Private（公开/私有）：选择适合需求的选项。如果想要所有人都能够查看仓库，则 选择 "Public"（公开）。   
+-	Initialize this repository with（初始化仓库）：如果想在仓库中添加一个 README 文件， 选择 "Add a README file"（添加一个 README 文件）。   
+-	Add .gitignore（添加 .gitignore 文件）：根据项目需求选择合适的选项。 Choose a license（选择许可证）：根据项目需求选择合适的选项。  
+4. 点击 "Create repository"：填写完毕后，点击页面下方的绿色按钮 "Create repository"。
+
+# 二、	上传PPT到zhxDataMining中
+1. 登录GitHub：确保已经登录到 GitHub 帐户。 
+2. 导航到 "zhxDataMining" 仓库页面：在 GitHub 主页或仓库列表中找到并点击 "zhxDataMining" 仓 库，进入该仓库的页面。
+3. 点击 "Add file" 按钮：在仓库页面的右上角，点击 "Add file"，然后选择 "Upload files"。 
+4. 上传PPT文件： 
+拖拽上传：可以直接将 PPT 文件拖拽到上传区域。 
+点击上传：或者点击上传区域选择文件，然后选择要上传的 PPT 文件。
+5. 填写提交信息：在页面下方的 "Commit changes" 区域，输入提交信息，描述上传的 PPT 文件。 6. 点击 "Commit changes" 按钮：完成上述步骤后，点击 "Commit changes" 提交更改。
+6. 点击 "Commit changes" 按钮：完成上述步骤后，点击 "Commit changes" 提交更改。
+
 药物虚拟筛选是一种利用计算机辅助方法来预测和评估潜在药物分子与靶点之间相互作用的过程。它是一种高效的药物发现方法，可以在大量候选分子中筛选出具有潜在治疗效果的化合物，从而节省时间和成本。
 药物虚拟筛选通常涉及以下几个主要步骤：
 1. **目标选择**：首先，确定需要治疗的疾病或病理目标，例如蛋白质、酶或受体。这些目标可能与特定疾病的发生、发展或传播有关。
@@ -6,7 +29,8 @@
 3. **虚拟筛选方法**：选择适当的虚拟筛选方法。这些方法可以分为结构基础的和药效基础的。结构基础的方法利用分子结构、物理性质和构象信息来预测分子与靶点的亲和性和特异性。药效基础的方法则利用已知的生物活性数据和药物-靶点相互作用信息来预测新化合物的活性。
 4. **筛选和评估**：应用虚拟筛选方法对化合物数据库进行筛选，识别与目标结合的候选化合物。然后，使用分子对接、分子动力学模拟等技术对候选化合物进行评估，评估它们的亲和性、特异性、药效等性质。
 5. **实验验证**：最后，通过实验验证筛选出的候选化合物的活性和生物效应。这可能涉及体外和体内实验，以确认候选化合物的治疗效果和毒副作用。
-
+   
+# 三、PPT主要内容
 ## 数据集内容
 ### 蛋白质序列（protein sequence）FASTA：
 MQSTSNHLWLLSDILGQGATANVFRGRHKKTGDLFAIKVFNNISFLRPVDVQMREFEVLKKLNHKNIVKLFAIEEETTTRHKVLIMEFCPCGSLYTVLEEPSNA
